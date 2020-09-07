@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,WAAY,CACZ,YAAa,CACb,cACF,CAMA,4BACE,YACF,CAEA,SACE,aACF","file":"main.79a10ac7.chunk.css","sourcesContent":[".button {\n  padding: 5px;\n  margin: 0 3px;\n  cursor: pointer;\n}\n\n.listContainer {\n  display: none;\n}\n\n.startButton {\n  display: none;\n}\n\n.visible {\n  display: block;\n}\n"]}
